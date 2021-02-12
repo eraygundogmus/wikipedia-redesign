@@ -1,7 +1,7 @@
 # Redesign Wikipedia
 
 ## Tried to make Wikipedia's user experience great!
-* More readable articles and better looking with modern UI
+* Better looking and readable articles with modern UI
 * Responsive 
 * App wireframe
 * Component build 
